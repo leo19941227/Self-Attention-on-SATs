@@ -6,3 +6,7 @@ We provide the error-free version in this repository.
 ![Imgur](https://imgur.com/L9hS7tm.jpg)
 
 # Self-Attention-on-SATs
+
+- Attention maps: [M3](https://hackmd.io/@QMLdEc5PRayZZIfBA3H1kA/HkmGR4EjU), [M6](https://hackmd.io/@QMLdEc5PRayZZIfBA3H1kA/ryj2SwEsU), [M9](https://hackmd.io/@QMLdEc5PRayZZIfBA3H1kA/Byy_qDVi8)
+
+- 
