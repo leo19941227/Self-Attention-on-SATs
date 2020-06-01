@@ -24,8 +24,5 @@ Please refer to `supplementary.pdf` in  this repository.
 
 ## Phoneme Relation Map
 
-Please refer to `supplementary.pdf` in this repository.
+- Phoneme relation distribtuion of a corpus (baseline distribution): `supplementary.pdf`
 
-## Importance Ranking
-
-Please refer to `supplementary.pdf` in this repository.
