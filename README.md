@@ -25,4 +25,5 @@ Please refer to `supplementary.pdf` in  this repository.
 ## Phoneme Relation Map
 
 - Phoneme relation distribtuion of a corpus (baseline distribution): `supplementary.pdf`
+- Phoneme relation maps: [M3](https://hackmd.io/@QMLdEc5PRayZZIfBA3H1kA/HJBDZfmnI), [M6](https://hackmd.io/@QMLdEc5PRayZZIfBA3H1kA/ryaUQzXh8), [M9](https://hackmd.io/@QMLdEc5PRayZZIfBA3H1kA/Hk2SVzm28)
 
