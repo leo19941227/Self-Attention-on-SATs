@@ -3,7 +3,7 @@ We apologize for a subtle typo in **equation 4**, where there should be only a s
 `P^{'}_h` is designed to be a joint distribution, and an extra division by **T** makes the distribution sum up to **1/T** instead of **1**.
 We provide the error-free version in this repository.
 
-![Imgur](https://imgur.com/L9hS7tm.jpg)
+<img src="https://imgur.com/L9hS7tm.jpg" width="600"/>
 
 # Self-Attention-on-SATs
 
@@ -13,7 +13,8 @@ We provide the error-free version in this repository.
 
 - Head distribution across layers according to three metrics
 
-![Imgur](https://imgur.com/LUgcf15.jpg)
+<img src="https://imgur.com/LUgcf15.jpg" width="600"/>
+
 Red is for M3; Green is for M6; Blue is for M9.
 The deeper color represents the layer closer to input features.
 Global heads dominate especially for M6 and M9, while M3 contains the most heads with high diagonality.
@@ -27,3 +28,7 @@ Please refer to `supplementary.pdf` in  this repository.
 - Phoneme relation distribtuion of a corpus (baseline distribution): `supplementary.pdf`
 - Phoneme relation maps: [M3](https://hackmd.io/@QMLdEc5PRayZZIfBA3H1kA/HJBDZfmnI), [M6](https://hackmd.io/@QMLdEc5PRayZZIfBA3H1kA/ryaUQzXh8), [M9](https://hackmd.io/@QMLdEc5PRayZZIfBA3H1kA/Hk2SVzm28)
 
+## Importance Ranking
+
+- Global vs Weight
+<img src="https://i.imgur.com/nbzekF0.png" width="600"/>
