@@ -30,5 +30,6 @@ Please refer to `supplementary.pdf` in  this repository.
 
 ## Importance Ranking
 
-- Global vs Weight
+- Global vs Weight: We mark the top 10 ranking differences by their head ID. As shown at the second row, the head ranked most differently in M3, M6, or M9 tends to neglect.
+
 <img src="https://i.imgur.com/nbzekF0.png" width="600"/>
